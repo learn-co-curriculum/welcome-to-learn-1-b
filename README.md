@@ -4,7 +4,7 @@ I'm Avi Flombaum, co-founder of Flatiron School, the creators of Learn.co, our o
 
 Before we get started with code, I'd love to tell you a little a bit about Flatiron School and the team that built Learn.co. At Flatiron School we've spent the last few years teaching thousands of people just like you how to code at our campus in New York City and helped them start their careers as software developers. 
 
-Our goal with Learn.co is to take all the elements that make our in-person education work so well and put that online for the whole world to experience. Given that our goal with Learn, yours as a student and ours as educators is to do nothing short of change your life, you will find that Learn is a bit different than other online educational products you might have used. In the next lesson you're going to learn more about what makes Learn different and how to make the best of your time here.
+Our goal with Learn.co is to take all the elements that make our in-person education work so well and put that online for the whole world to experience. Because our goal with Learn—yours as a student and ours as educators—is to do nothing short of change your life, you will find that Learn is a bit different than other online educational products you might have used. In the next lesson you're going to learn more about what makes Learn different and how to make the best of your time here.
 
 ## How to Proceed to the Next Lesson
 
