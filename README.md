@@ -1,5 +1,7 @@
 # Welcome To Learn
 
+No, I am Avi.
+
 I'm Avi Flombaum, co-founder of Flatiron School, the creators of Learn.co, our online learning platform. It is my pleasure to welcome you on your journey to learn to code. Together we're going to change your life.
 
 At Flatiron School we've spent the last few years teaching thousands of people just like you how to code at our campus in New York City and helped them start their careers as software developers. 
